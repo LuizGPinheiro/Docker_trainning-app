@@ -16,3 +16,4 @@ Get started
 
 * Part 1:Overview
 * Part 2:Containerize an application
+* Part 3:Update the application
